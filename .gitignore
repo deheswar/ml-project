@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+liki/
 
 # Spyder project settings
 .spyderproject
