@@ -1,0 +1,1 @@
+print("likith loves satya")
